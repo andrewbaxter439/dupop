@@ -5,6 +5,7 @@
 #' @param data A dataframe of observations to mimic
 #' @param id_col Column name for individual observation id's
 #' @param group_cols Columns to cluster by (ordered hierarchically)
+#' @param n Number of observations to generate
 #' @param ... other arguments passed by name to each variable
 #'
 #' @export
